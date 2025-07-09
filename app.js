@@ -1,4 +1,3 @@
-
 const apikey = "Api Key";
 
 window.addEventListener("load", () => {
